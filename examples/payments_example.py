@@ -2,8 +2,8 @@ import telebot
 from telebot.types import LabeledPrice
 from telebot.types import ShippingOption
 
-token = '1234567890:AAAABBBBCCCCDDDDeeeeFFFFgggGHHHH'
-provider_token = '1234567890:TEST:AAAABBBBCCCCDDDD'  # @BotFather -> Bot Settings -> Payments
+token = '524768301:AAFk8f1gyqdkU8lVgfBoeaXj-mTFh7LRHos'
+provider_token = '524768301:AAFk8f1gyqdkU8lVgfBoeaXj-mTFh7LRHos'  # @BotFather -> Bot Settings -> Payments
 bot = telebot.TeleBot(token)
 
 # More about Payments: https://core.telegram.org/bots/payments
